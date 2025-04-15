@@ -55,4 +55,4 @@ Este projeto foi desenvolvido para fins de estudo, implementando uma aplicação
  Marcos Vinícius Marcolino Rocha - [@vinimx](https://github.com/vinimx)
 
 
-⌨️ Desenvolvido com  para fins de aprendizado
+⌨️ Desenvolvido  para fins de aprendizado
